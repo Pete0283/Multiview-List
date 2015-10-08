@@ -1,0 +1,28 @@
+{
+  "name": "Assignment 2",
+  "version": "1",
+  "authors": [
+    "Pete0283 <pete0283@algonquinlive.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "angular-bootstrap": "~0.13.4",
+    "ngstorage": "~0.3.9",
+    "angular-ui-router": "~0.2.15"
+  }
+}
